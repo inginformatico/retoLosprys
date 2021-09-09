@@ -1,0 +1,19 @@
+[*] Obtaining the boot key...
+[*] Calculating the hboot key using SYSKEY 5062b47b183427f814c3cbdad04994e6...
+[*] Obtaining the user list and keys...
+[*] Decrypting user keys...
+[*] Dumping password hints...
+
+No users with password hints on this system
+
+[*] Dumping password hashes...
+
+
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:fc525c9683e8fe067095ba2ddc971889:::
+Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+DefaultAccount:503:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+WDAGUtilityAccount:504:aad3b435b51404eeaad3b435b51404ee:f27c0c12a5c94e851d73b4ce3a77d149:::
+IEUser:1000:aad3b435b51404eeaad3b435b51404ee:fc525c9683e8fe067095ba2ddc971889:::
+sshd:1002:aad3b435b51404eeaad3b435b51404ee:475a7dd05810c001c892853b88ba03a9:::
+finance:1003:aad3b435b51404eeaad3b435b51404ee:1903fd8b6b5ea2d90007ece0b00e328e:::
+
