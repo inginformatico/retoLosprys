@@ -12,3 +12,5 @@ Las preguntas se deben responder secuencialmente, ya que van apareciendo según 
 
 Este reto consta de 30 preguntas que tenemos que resolver. No hay un formato específico para las respuestas o flags (usando el argot de los ctfs), 
 sino que en cada pregunta el formato será el indicado en el enunciado.
+
+En el siguiente artículo tienes el reto resuelto paso a paso y las técnicas usadas: https://medium.com/@inginformatico/reto-forense-losprys-i-presentaci%C3%B3n-herramientas-y-t%C3%A9cnicas-3096470e02d4
